@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "agusmade",
+    "repo": "sample-8",
+    "branch": "master"
+  },
+  "name": "Sample 8",
+  "description": "smp 8",
+  "version": "1.0.0",
+  "projectId": "2"
+}
